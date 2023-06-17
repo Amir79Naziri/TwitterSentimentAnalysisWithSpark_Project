@@ -80,9 +80,9 @@ The data is gathered by <a href="http://help.sentiment140.com/for-students">Sent
 </ul>
 
 For more details and downloading data, please visit <a href="http://help.sentiment140.com/for-students">here</a>.  
+
 <br/>
 <h3 id="Phase2">Preprocess Data</h3>  
-  
 For this phase <b>data_exploration.ipynb</b> file is implemented and explained in details. Also, around 300,000 lines of raw dataset have been randomly sampled and used for next phase (streaming simulation). 
 
 <br/>
